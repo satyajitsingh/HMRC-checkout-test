@@ -1,0 +1,5 @@
+package scala.com.control.movie
+
+class Movie {
+  
+}

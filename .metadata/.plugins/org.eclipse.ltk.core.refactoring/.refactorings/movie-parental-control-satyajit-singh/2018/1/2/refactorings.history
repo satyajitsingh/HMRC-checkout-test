@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;scala.com.Control&apos; to &apos;scala.com.control&apos;&#x0D;&#x0A;- Original project: &apos;movie-parental-control-satyajit-singh&apos;&#x0D;&#x0A;- Original element: &apos;movie-parental-control-satyajit-singh/src/scala.com.Control&apos;&#x0D;&#x0A;- Renamed element: &apos;movie-parental-control-satyajit-singh/src/scala.com.control&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;scala.com.Control&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;scala.com.Control" name="scala.com.control" qualified="false" references="true" stamp="1515672894709" textual="false" version="1.0"/>
+</session>
